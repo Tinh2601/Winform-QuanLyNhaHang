@@ -1,0 +1,222 @@
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.mau.resources
+C:\Users\20110\OneDrive\Máy tính\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.mau.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.mau.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQLMA.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - Copy\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.mau.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQLMA.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\Winform cuối kì\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.mau.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQLMA.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Chiaca.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMainQL.resources
+C:\Users\20110\OneDrive\Máy tính\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.KiemTraSLForm.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMainQL.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Chiaca.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmDSNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQLMA.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.KiemTraSLForm.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLichLamViec.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmChamCong.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLuongNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyCaLamViec.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\New\QuanLiNhaHang - 03\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyLuongNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMainQL.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmChamCong.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmFood.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLichLamViec.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLuongNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyCaLamViec.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyLuongNhanVien.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Chiaca.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.KiemTraSLForm.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.ThongTinNV_UC.resources
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\20110\OneDrive\Máy tính\Tài liệu môn học\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.Interfaces.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.System.Drawing.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Aspose.Words.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\EPPlus.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.SuggestedBindingRedirects.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMainQL.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmBill.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmChamCong.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLichLamViec.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmLuongNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyCaLamViec.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyLuongNhanVien.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmTableFood.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login_Form.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.FormMain.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.ThongTinNV_UC.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Chiaca.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.KiemTraSLForm.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CopyComplete
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmThongKeDoanhThu.resources
+C:\Thư viện\HK2-Nam2\Project CK Lập trình trên Windows\123\QuanLiNhaHang - 03\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.frmQuanLyHoaDon.resources

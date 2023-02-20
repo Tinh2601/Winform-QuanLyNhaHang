@@ -1,0 +1,204 @@
+﻿++Solution 'QuanLiNhaHang' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:QuanLiNhaHang.sln
+++QuanLiNhaHang
+i:{00000000-0000-0000-0000-000000000000}:QuanLiNhaHang
+++Properties
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\
+++References
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++Class
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\
+++BILL.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\bill.cs
+++FOOD.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\food.cs
+++MY_DB.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\my_db.cs
+++NHANVIEN.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\nhanvien.cs
+++TABLEFOOD.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\tablefood.cs
+++NV
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\
+++FormMain.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\formmain.cs
+++ThongTinNV_UC.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\thongtinnv_uc.cs
+++QL
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\
+++Chiaca.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\chiaca.cs
+++frmDSNhanVien.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmdsnhanvien.cs
+++frmQLMA.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmqlma.cs
+++KiemTraSLForm.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\kiemtraslform.cs
+++Resources
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\resources\
+++App.config
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\app.config
+++ChamCong.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\chamcong.cs
+++FormMainQL.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\formmainql.cs
+++frmBill.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmbill.cs
+++frmChamCong.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmchamcong.cs
+++frmFood.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmfood.cs
+++frmLichLamViec.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmlichlamviec.cs
+++frmLuongNhanVien.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmluongnhanvien.cs
+++frmNhanVien.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmnhanvien.cs
+++frmQuanLyCaLamViec.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlycalamviec.cs
+++frmQuanLyLuongNhanVien.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlyluongnhanvien.cs
+++frmTableFood.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmtablefood.cs
+++Login_Form.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\login_form.cs
+++packages.config
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\packages.config
+++Program.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\program.cs
+++QLNHDataSet.xsd
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\qlnhdataset.xsd
+++AssemblyInfo.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\assemblyinfo.cs
+++Resources.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\resources.resx
+++Settings.settings
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\settings.settings
+++EPPlus
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++EPPlus.Interfaces
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++EPPlus.System.Drawing
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++Microsoft.CSharp
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++Microsoft.IO.RecyclableMemoryStream
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++PresentationCore
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.configuration
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Core
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Data
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Data.DataSetExtensions
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Deployment
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Drawing
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Net.Http
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Security
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Threading.Tasks
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Windows.Forms
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Xml
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++System.Xml.Linq
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++FormMain.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\formmain.designer.cs
+++FormMain.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\formmain.resx
+++ThongTinNV_UC.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\thongtinnv_uc.designer.cs
+++ThongTinNV_UC.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\nv\thongtinnv_uc.resx
+++Chiaca.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\chiaca.designer.cs
+++Chiaca.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\chiaca.resx
+++frmDSNhanVien.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmdsnhanvien.designer.cs
+++frmDSNhanVien.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmdsnhanvien.resx
+++frmQLMA.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmqlma.designer.cs
+++frmQLMA.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\frmqlma.resx
+++KiemTraSLForm.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\kiemtraslform.designer.cs
+++KiemTraSLForm.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\ql\kiemtraslform.resx
+++anh user.png
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\resources\anh user.png
+++e6e8d3ef2249e317ba58.jpg
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\resources\e6e8d3ef2249e317ba58.jpg
+++f9bc59f6a050610e3841.jpg
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\resources\f9bc59f6a050610e3841.jpg
+++FormMainQL.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\formmainql.designer.cs
+++FormMainQL.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\formmainql.resx
+++frmBill.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmbill.designer.cs
+++frmBill.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmbill.resx
+++frmChamCong.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmchamcong.designer.cs
+++frmChamCong.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmchamcong.resx
+++frmFood.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmfood.designer.cs
+++frmFood.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmfood.resx
+++frmLichLamViec.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmlichlamviec.designer.cs
+++frmLichLamViec.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmlichlamviec.resx
+++frmLuongNhanVien.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmluongnhanvien.designer.cs
+++frmLuongNhanVien.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmluongnhanvien.resx
+++frmNhanVien.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmnhanvien.designer.cs
+++frmNhanVien.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmnhanvien.resx
+++frmQuanLyCaLamViec.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlycalamviec.designer.cs
+++frmQuanLyCaLamViec.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlycalamviec.resx
+++frmQuanLyLuongNhanVien.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlyluongnhanvien.designer.cs
+++frmQuanLyLuongNhanVien.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmquanlyluongnhanvien.resx
+++frmTableFood.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmtablefood.designer.cs
+++frmTableFood.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\frmtablefood.resx
+++Login_Form.designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\login_form.designer.cs
+++Login_Form.resx
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\login_form.resx
+++QLNHDataSet.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\qlnhdataset.designer.cs
+++QLNHDataSet.xsc
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\qlnhdataset.xsc
+++QLNHDataSet.xss
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\qlnhdataset.xss
+++Resources.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\properties\settings.designer.cs
+++ReportExtensionMethod.cs
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:c:\users\20110\onedrive\máy tính\tài liệu môn học\quanlinhahang - 03\quanlinhahang\class\reportextensionmethod.cs
+++Aspose.Words
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:
+++Aspose.Words.Pdf2Word
+i:{7481a60e-569c-41b8-aa58-a97bb6768bbb}:

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7481a60e-569c-41b8-aa58-a97bb6768bbb": {
+      "ProjectGuid": "7481a60e-569c-41b8-aa58-a97bb6768bbb",
+      "DisplayName": "QuanLiNhaHang",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
